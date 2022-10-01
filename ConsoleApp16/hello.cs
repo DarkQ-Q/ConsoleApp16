@@ -9,8 +9,8 @@ namespace ConsoleApp16
     internal class hello
     {
         public int Health { get; set; }
-        public int Health1 { get; set; }
         public int Health2 { get; set; }
+        public int Health4 { get; set; }
 
     }
 }
